@@ -1,2 +1,2 @@
 # Online-chat-room
-A online chat room using PHP
+A online chat room using PHP and  Jquery
