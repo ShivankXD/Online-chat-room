@@ -55,7 +55,6 @@
           echo 'window.location="http://localhost/ONLINECHATROOM/rooms.php?roomname= ' .$room. '";';
           echo '</script>';
         }
-
      }
   }
   else {
